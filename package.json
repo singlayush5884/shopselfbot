@@ -1,0 +1,19 @@
+{
+  "name": "shopselfbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js-selfbot-v13": "^2.12.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mathjs": "^11.7.0",
+    "nodemon": "^2.0.21"
+  }
+}
